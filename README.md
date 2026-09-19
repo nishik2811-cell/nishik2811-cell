@@ -1,54 +1,48 @@
 <div align="center">
 
+<br>
+
 <img src="assets/name-banner.svg" alt="nishita">
 
-<br>
+*cs student &nbsp;·&nbsp; occasional designer &nbsp;·&nbsp; professional overthinker*
 
-<img src="assets/terminal.svg" alt="terminal: whoami -> nishita, status -> online">
+---
 
-<br><br>
+<img src="assets/terminal.svg" width="620" alt="terminal: whoami -> nishita, status -> online">
 
-<img src="assets/room.svg" alt="pixel room with a character at a glowing monitor">
+---
 
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top" width="45%">
+      <code>◈ the room</code> &nbsp; <em>— 2am, as usual.</em>
+      <br/><br/>
+      <img src="assets/room.svg" width="280" alt="pixel room with a character at a glowing monitor">
+    </td>
+    <td align="center" valign="top" width="55%">
+      <code>◈ system status</code>
+      <br/><br/>
+      <img src="assets/status.svg" width="280" alt="status: coding, studying, designing, sleeping">
+      <br/><br/>
+      <code>◈ now playing</code> &nbsp; <em>— Compass, The Neighbourhood</em>
+      <br/><br/>
+      <img src="assets/equalizer.svg" width="150" alt="now playing equalizer">
+    </td>
+  </tr>
+</table>
 
-<br>
+---
 
-cs student · occasional designer · professional overthinker
+night owl &nbsp;·&nbsp; chronic tea drinker &nbsp;·&nbsp; talks to a rubber duck more than humans &nbsp;·&nbsp; believes bugs are just undocumented features
 
-night owl, chronic tea drinker. talks to a rubber duck more than humans. believes bugs are just undocumented features.
+<sub>learning → C++ / Java / DSA &nbsp;&nbsp;·&nbsp;&nbsp; building → little things &nbsp;&nbsp;·&nbsp;&nbsp; exploring → web + design &nbsp;&nbsp;·&nbsp;&nbsp; status → probably debugging</sub>
 
-<br>
+`C++` `Java` `HTML` `CSS` `JavaScript` `SQL` `Git` `GitHub` `VS Code`
 
-<div align="center">
-<img src="assets/status.svg" alt="status: coding, studying, designing, sleeping">
-&nbsp;&nbsp;
-<img src="assets/equalizer.svg" alt="now playing equalizer">
-</div>
+---
 
-<div align="center"><sub>♫ Compass — The Neighbourhood</sub></div>
+<img src="assets/footer.svg" width="200" alt="connection closed">
 
-<br>
+<code>github</code> → [nishik2811-cell](https://github.com/nishik2811-cell) &nbsp;&nbsp;·&nbsp;&nbsp; <code>linkedin</code> → [nishita-kumari](https://www.linkedin.com/in/nishita-kumari-841227240/)
 
-learning → C++ / Java / DSA <br>
-building → little things <br>
-exploring → web + design <br>
-status → probably debugging
-
-<br>
-
-C++ · Java · HTML · CSS · JavaScript · SQL · Git · GitHub · VS Code
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/nishik2811-cell">github</a> ⋆ <a href="https://www.linkedin.com/in/nishita-kumari-841227240/">linkedin</a>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="assets/footer.svg" alt="connection closed">
 </div>
