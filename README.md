@@ -4,7 +4,7 @@
 
 <img src="assets/name-banner.svg" alt="nishita">
 
-*mnc student &nbsp;·&nbsp; occasional designer &nbsp;·&nbsp; professional overthinker*
+*mnc student &nbsp;·&nbsp; occasional dreamer &nbsp;·&nbsp; professional overthinker*
 
 ---
 
@@ -35,9 +35,9 @@
 
 night owl &nbsp;·&nbsp; chronic coffee drinker &nbsp;·&nbsp; talks to a rubber duck more than humans &nbsp;·&nbsp; believes bugs are just undocumented features
 
-<sub>learning → C++ / Java / DSA &nbsp;&nbsp;·&nbsp;&nbsp; building → little things &nbsp;&nbsp;·&nbsp;&nbsp; exploring → web + design &nbsp;&nbsp;·&nbsp;&nbsp; status → probably debugging</sub>
+<sub>learning → C++ / Java / DSA &nbsp;&nbsp;·&nbsp;&nbsp; building → little things &nbsp;&nbsp;·&nbsp;&nbsp; exploring → machine learning &nbsp;&nbsp;·&nbsp;&nbsp; status → probably debugging</sub>
 
-`C++` `Java` `Python` `HTML` `CSS` `JavaScript` `SQL` `NumPy` `Pandas` `Matplotlib` `MATLAB` `Git` `GitHub` `VS Code` `Canva` `Framer` `Vercel`
+`C` `C++` `Java` `Python` `HTML` `CSS` `JavaScript` `SQL` `NumPy` `Pandas` `Matplotlib` `MATLAB` `Git` `GitHub` `VS Code` `Canva` `Framer` `Vercel`
 
 ---
 
