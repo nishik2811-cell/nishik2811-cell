@@ -33,7 +33,7 @@
 
 ---
 
-night owl &nbsp;·&nbsp; chronic coffee drinker &nbsp;·&nbsp; talks to a rubber duck more than humans &nbsp;·&nbsp; believes bugs are just undocumented features
+night owl &nbsp;·&nbsp; chronic coffee drinker &nbsp;·&nbsp; likes to talk to cats more than humans &nbsp;·&nbsp; believes bugs are just undocumented features
 
 <sub>learning → C++ / Java / DSA &nbsp;&nbsp;·&nbsp;&nbsp; building → little things &nbsp;&nbsp;·&nbsp;&nbsp; exploring → machine learning &nbsp;&nbsp;·&nbsp;&nbsp; status → probably debugging</sub>
 
