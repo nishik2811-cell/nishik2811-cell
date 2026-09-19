@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150" width="300" height="150">
+  <defs>
+    <clipPath id="trackclip0"><rect x="110" y="40" width="165" height="10" rx="5"/></clipPath><clipPath id="trackclip1"><rect x="110" y="66" width="165" height="10" rx="5"/></clipPath><clipPath id="trackclip2"><rect x="110" y="92" width="165" height="10" rx="5"/></clipPath><clipPath id="trackclip3"><rect x="110" y="118" width="165" height="10" rx="5"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="298" height="148" rx="18" fill="#0a0014" stroke="#3d2a5c" stroke-width="1.5"/>
+  <text x="24" y="26" font-family="Courier New, monospace" font-size="12" fill="#5c4a7a">system status</text>
+  
+  <text x="24" y="51" font-family="Courier New, monospace" font-size="13" fill="#c9a7ff">coding</text>
+  <rect x="110" y="40" width="165" height="10" rx="5" fill="#1b0f2b"/>
+  <rect x="110" y="40" width="135.3" height="10" rx="5" fill="#8b5cf6"/>
+  <g clip-path="url(#trackclip0)">
+    <rect x="92" y="40" width="18" height="10" fill="#ffffff" opacity="0">
+      <animate attributeName="x" values="92;275" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="24" y="77" font-family="Courier New, monospace" font-size="13" fill="#c9a7ff">studying</text>
+  <rect x="110" y="66" width="165" height="10" rx="5" fill="#1b0f2b"/>
+  <rect x="110" y="66" width="112.2" height="10" rx="5" fill="#8b5cf6"/>
+  <g clip-path="url(#trackclip1)">
+    <rect x="92" y="66" width="18" height="10" fill="#ffffff" opacity="0">
+      <animate attributeName="x" values="92;275" dur="2.8s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="2.8s" begin="0.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="24" y="103" font-family="Courier New, monospace" font-size="13" fill="#c9a7ff">designing</text>
+  <rect x="110" y="92" width="165" height="10" rx="5" fill="#1b0f2b"/>
+  <rect x="110" y="92" width="90.8" height="10" rx="5" fill="#8b5cf6"/>
+  <g clip-path="url(#trackclip2)">
+    <rect x="92" y="92" width="18" height="10" fill="#ffffff" opacity="0">
+      <animate attributeName="x" values="92;275" dur="3.2s" begin="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.2s" begin="1.0s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="24" y="129" font-family="Courier New, monospace" font-size="13" fill="#c9a7ff">sleeping</text>
+  <rect x="110" y="118" width="165" height="10" rx="5" fill="#1b0f2b"/>
+  <rect x="110" y="118" width="36.3" height="10" rx="5" fill="#8b5cf6"/>
+  <g clip-path="url(#trackclip3)">
+    <rect x="92" y="118" width="18" height="10" fill="#ffffff" opacity="0">
+      <animate attributeName="x" values="92;275" dur="3.6s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0" dur="3.6s" begin="1.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

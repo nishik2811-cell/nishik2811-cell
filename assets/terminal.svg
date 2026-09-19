@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 231" width="620" height="231">
+  <defs>
+    <clipPath id="clip0"><rect x="30" y="56" height="26" width="0"><animate attributeName="width" values="0;0;87.6;87.6" keyTimes="0;0.030;0.114;1" dur="10.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="clip1"><rect x="30" y="83" height="26" width="0"><animate attributeName="width" values="0;0;96.8;96.8" keyTimes="0;0.170;0.254;1" dur="10.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="clip2"><rect x="30" y="110" height="26" width="0"><animate attributeName="width" values="0;0;87.6;87.6" keyTimes="0;0.310;0.394;1" dur="10.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="clip3"><rect x="30" y="137" height="26" width="0"><animate attributeName="width" values="0;0;280.8;280.8" keyTimes="0;0.450;0.534;1" dur="10.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="clip4"><rect x="30" y="164" height="26" width="0"><animate attributeName="width" values="0;0;244.0;244.0" keyTimes="0;0.590;0.674;1" dur="10.0s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="618" height="229" rx="18" fill="#0a0014" stroke="#3d2a5c" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <circle cx="26" cy="26" r="5" fill="#ff6ac2"/>
+  <circle cx="44" cy="26" r="5" fill="#c9a7ff"/>
+  <circle cx="62" cy="26" r="5" fill="#8b5cf6"/>
+  <text x="310" y="30" text-anchor="middle" font-family="Courier New, monospace" font-size="12" fill="#5c4a7a">nishita@github</text>
+  <line x1="1" y1="44" x2="619" y2="44" stroke="#241536" stroke-width="1"/>
+
+  <text x="34" y="76" font-family="Courier New, monospace" font-size="15" clip-path="url(#clip0)"><tspan fill="#8b5cf6">$ </tspan><tspan fill="#c9a7ff">whoami</tspan></text><text x="34" y="103" font-family="Courier New, monospace" font-size="15" clip-path="url(#clip1)"><tspan fill="#8b5cf6">> </tspan><tspan fill="#fdeaff">nishita</tspan></text><text x="34" y="130" font-family="Courier New, monospace" font-size="15" clip-path="url(#clip2)"><tspan fill="#8b5cf6">$ </tspan><tspan fill="#c9a7ff">status</tspan></text><text x="34" y="157" font-family="Courier New, monospace" font-size="15" clip-path="url(#clip3)"><tspan fill="#8b5cf6">> </tspan><tspan fill="#fdeaff">online ●  brain.exe running</tspan></text><text x="34" y="184" font-family="Courier New, monospace" font-size="15" clip-path="url(#clip4)"><tspan fill="#8b5cf6">> </tspan><tspan fill="#c9a7ff">bugs detected: probably</tspan></text>
+
+  <!-- blinking cursor after last line -->
+  <g>
+    <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.674;0.684;0.97" dur="10.0s" repeatCount="indefinite" calcMode="discrete"/>
+    <rect x="270.0" y="168" width="9" height="18" fill="#ff6ac2">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
