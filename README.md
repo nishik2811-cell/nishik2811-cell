@@ -4,7 +4,7 @@
 
 <img src="assets/name-banner.svg" alt="nishita">
 
-*cs student &nbsp;·&nbsp; occasional designer &nbsp;·&nbsp; professional overthinker*
+*mnc student &nbsp;·&nbsp; occasional designer &nbsp;·&nbsp; professional overthinker*
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-night owl &nbsp;·&nbsp; chronic tea drinker &nbsp;·&nbsp; talks to a rubber duck more than humans &nbsp;·&nbsp; believes bugs are just undocumented features
+night owl &nbsp;·&nbsp; chronic coffee drinker &nbsp;·&nbsp; talks to a rubber duck more than humans &nbsp;·&nbsp; believes bugs are just undocumented features
 
 <sub>learning → C++ / Java / DSA &nbsp;&nbsp;·&nbsp;&nbsp; building → little things &nbsp;&nbsp;·&nbsp;&nbsp; exploring → web + design &nbsp;&nbsp;·&nbsp;&nbsp; status → probably debugging</sub>
 
@@ -41,8 +41,16 @@ night owl &nbsp;·&nbsp; chronic tea drinker &nbsp;·&nbsp; talks to a rubber du
 
 ---
 
-<img src="assets/footer.svg" width="200" alt="connection closed">
+<code>◈ github activity</code>
 
-<code>github</code> → [nishik2811-cell](https://github.com/nishik2811-cell) &nbsp;&nbsp;·&nbsp;&nbsp; <code>linkedin</code> → [nishita-kumari](https://www.linkedin.com/in/nishita-kumari-841227240/)
+<img src="https://streak-stats.demolab.com?user=nishik2811-cell&background=0A0014&border=3D2A5C&stroke=3D2A5C&ring=FF6AC2&fire=FF6AC2&currStreakNum=FDEAFF&currStreakLabel=FF9CEE&sideNums=FDEAFF&sideLabels=C9A7FF&dates=5C4A7A&border_radius=18&hide_border=false" alt="github streak stats">
+
+---
+
+<a href="https://www.linkedin.com/in/nishita-kumari-841227240/"><img src="assets/badge-linkedin.svg" width="190" alt="linkedin"></a>
+
+<br><br>
+
+<img src="assets/footer.svg" width="200" alt="connection closed">
 
 </div>
