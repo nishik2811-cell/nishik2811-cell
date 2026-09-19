@@ -37,7 +37,7 @@ night owl &nbsp;·&nbsp; chronic coffee drinker &nbsp;·&nbsp; talks to a rubber
 
 <sub>learning → C++ / Java / DSA &nbsp;&nbsp;·&nbsp;&nbsp; building → little things &nbsp;&nbsp;·&nbsp;&nbsp; exploring → web + design &nbsp;&nbsp;·&nbsp;&nbsp; status → probably debugging</sub>
 
-`C++` `Java` `HTML` `CSS` `JavaScript` `SQL` `Git` `GitHub` `VS Code`
+`C++` `Java` `Python` `HTML` `CSS` `JavaScript` `SQL` `NumPy` `Pandas` `Matplotlib` `MATLAB` `Git` `GitHub` `VS Code` `Canva` `Framer` `Vercel`
 
 ---
 
