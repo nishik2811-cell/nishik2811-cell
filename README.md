@@ -47,10 +47,6 @@ night owl &nbsp;·&nbsp; chronic coffee drinker &nbsp;·&nbsp; talks to a rubber
 
 ---
 
-<a href="https://www.linkedin.com/in/nishita-kumari-841227240/"><img src="assets/badge-linkedin.svg" width="190" alt="linkedin"></a>
-
-<br><br>
-
-<img src="assets/footer.svg" width="200" alt="connection closed">
+<a href="https://www.linkedin.com/in/nishita-kumari-841227240/"><img src="assets/footer.svg" width="360" alt="say hi on linkedin"></a>
 
 </div>
