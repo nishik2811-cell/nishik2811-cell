@@ -26,7 +26,7 @@
       <br/><br/>
       <code>◈ now playing</code> &nbsp; <em>— Compass, The Neighbourhood</em>
       <br/><br/>
-      <img src="assets/equalizer.svg" width="150" alt="now playing equalizer">
+      <img src="assets/vinyl.svg" width="150" alt="spinning vinyl record, compass-themed label">
     </td>
   </tr>
 </table>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="labelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff6ac2"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="discSheen" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#2a1840"/>
+      <stop offset="55%" stop-color="#0d0512"/>
+      <stop offset="100%" stop-color="#050007"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="198" height="198" rx="20" fill="#0a0014" stroke="#3d2a5c" stroke-width="1.5"/>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 100 108" to="360 100 108" dur="6s" repeatCount="indefinite"/>
+
+    <circle cx="100" cy="108" r="72" fill="url(#discSheen)" stroke="#241536" stroke-width="2"/>
+
+    <circle cx="100" cy="108" r="62" fill="none" stroke="#1b0f2b" stroke-width="1"/>
+    <circle cx="100" cy="108" r="52" fill="none" stroke="#1b0f2b" stroke-width="1"/>
+    <circle cx="100" cy="108" r="42" fill="none" stroke="#1b0f2b" stroke-width="1"/>
+    <circle cx="100" cy="108" r="34" fill="none" stroke="#241536" stroke-width="1"/>
+
+    <circle cx="100" cy="108" r="26" fill="url(#labelGrad)" stroke="#0a0014" stroke-width="2"/>
+
+    <g stroke="#0a0014" stroke-width="1.6" stroke-linecap="round">
+      <line x1="100" y1="90" x2="100" y2="126"/>
+      <line x1="82" y1="108" x2="118" y2="108"/>
+    </g>
+    <path d="M 100 92 L 106 108 L 100 124 L 94 108 Z" fill="#0a0014" opacity="0.9"/>
+    <circle cx="100" cy="108" r="3.2" fill="#0a0014"/>
+
+    <circle cx="100" cy="108" r="3.2" fill="#fdeaff" opacity="0.85">
+      <animate attributeName="r" values="3.2;1.8;3.2" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <circle cx="164" cy="34" r="6" fill="#1b0f2b" stroke="#3d2a5c" stroke-width="1.5"/>
+  <line x1="164" y1="34" x2="122" y2="86" stroke="#5c4a7a" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="122" cy="86" r="4" fill="#c9a7ff"/>
+</svg>
